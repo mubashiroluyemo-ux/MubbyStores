@@ -1,0 +1,430 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-color: #fafafa;
+}
+.one{
+   display: flex;
+   margin-left: 70px;
+   font-family: "Lato", sans-serif;
+}
+.two{
+ font-size: 25px;
+ color: #166a40;
+ font-weight: 500;
+
+
+}
+.three{
+margin-left: 240px;
+
+}
+.four{
+margin-left: 50px;
+
+}
+.five{
+margin-left: 50px;
+
+}
+.six{
+margin-left: 50px;
+
+}
+.seven{
+margin-left: 150px;
+}
+.eight{
+margin-left: 50px;
+}
+.nine{
+display: flex;
+margin-top: 10px;
+font-size: 18px;
+font-weight: 500;
+}
+.ten{
+/* margin-top: 60px; */
+margin: auto;
+   font-family: "Lato", sans-serif;
+   /* margin-left: 70px; */
+   /* background-color: #eef5f1;  */
+background: linear-gradient(135deg,#E6F4EC,#CFE9DC);
+width: 90%;
+
+   padding: 50px 20px 50px 20px;
+
+}
+.eleven{
+   background-color: #166a40;
+   width: 105px;
+   padding: 5px 10px;
+   border-radius: 3px;
+   font-size: 14px;
+}
+.twelve{
+   font-size: 25px;
+}
+.thirteen{
+   font-size: 25px;
+   margin-top: -15px;
+
+
+}
+.fourteen{
+margin-top: -5px;
+}
+.fifteen{
+margin-top: -5px;
+}
+
+ 
+.sixtysix{
+  margin-left: 50px;  
+   margin-top: 100px;
+   display: flex;
+   color: #ffffff;
+   background-color: #000000;
+   height: 80vh;
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+}
+
+.sixtyseven{
+   margin-top: 50px;
+   margin-left: 50px;
+   font-size: 30px;
+   color: #ffd700;
+   font-weight: 500;
+}
+.sixtyeight{
+   margin-left: 50px;
+   margin-top: -20px;
+   color: #a78bfa;
+}
+.sixtynine{
+   margin-left: 50px;
+   margin-top: -18px;
+}
+.seventy{
+   margin-left: 100px;
+}
+.seventyone{
+   font-size: 20px;
+   margin-bottom: 50px;
+}
+.seventytwo{
+   margin-left: 70px;
+}
+.seventythree{
+    font-size: 20px;
+   margin-bottom: 50px;
+}
+.seventyfour{
+   margin-left: 100px;
+}
+.seventyfive{
+   font-size: 20px;
+   margin-bottom: 50px;
+}
+.seventysix{
+   margin-top: 50px;
+}
+.sixteen{
+display: flex;
+}
+.seventeen{
+ background-color: #166a40;
+   width: 65px;
+   padding: 5px 10px;
+   border-radius: 3px;
+   font-size: 14px;
+}
+.eighteen{
+ width: 120px;
+   padding: 5px 10px;
+   border-radius: 3px;
+   font-size: 14px;
+   background-color: #ffd700;
+   margin-left: 15px;
+}
+.nineteen{
+   display: flex;
+   margin-top: 20px;
+}
+.twentyfour{
+   display: flex;
+   margin-left: 45px;
+   margin-right: 60px;
+   margin-top: 50px;
+    /* background-color: #eef5f1;  */
+background: linear-gradient(135deg,#E6F4EC,#CFE9DC);
+   padding: 10px 20px 10px 30px;
+   border-radius: 3px;
+   /* margin: auto; */
+   width: 89%;
+}
+.twentyone{
+margin-left: 20px;
+}
+.twentytwo{
+margin-left: 20px;
+
+}
+.twentythree{
+margin-left: 550px;
+margin-top: -380px;
+}
+.twentyfive{
+   margin-left: 100px;
+}
+.twentysix{
+   margin-left: 100px;
+
+}
+.twentyseven{
+   margin-left: 100px;
+
+}
+.twentyeight{
+   margin-top: 50px;
+   margin-left: 120px;
+   font-size: 20px;
+   font-weight: 500;
+}
+.twentynine{
+   margin-left: 800px;
+}
+.thirty{
+   display: flex;
+   font-size: 12px;
+   margin-left: 110px;
+   margin-top: 50px;
+}
+.thirtyone{
+   margin-left: 20px;
+   font-weight: 600;
+}
+.thirtytwo{
+   margin-left: 10px;
+
+}
+.thirtythree{
+   margin-left: 26px;
+   font-weight: 600;
+}
+.thirtyfour{
+   margin-left: 10px;
+}
+.thirtyfive{
+   font-weight: 600;
+}
+.thirtyseven{
+     margin-left: 30px;
+     font-weight: 600;
+}
+.thirtyeight{
+      margin-left: 10px;
+}
+.thirtynine{
+     font-weight: 600;
+}
+.fourty{
+      margin-left: 10px;
+   
+}
+.fourtyone{
+   font-weight: 600;
+   margin-left: 15px;
+}
+.fourtytwo{
+      margin-left: 10px;
+
+
+   }
+   .fourtythree{
+      font-weight: 600;
+    margin-left: 27px;
+   }
+   .fourtyfour{
+      margin-left: 10px;
+   }
+   .fourtyfive{
+      font-weight: 600;
+    margin-left: 20px;
+   }
+   .fourtysix{
+      margin-left: 10px;
+   }
+   .fourtyseven{
+       font-weight: 600;
+    margin-left: 25px;
+   }
+   .fourtyeight{
+      margin-left: 10px;
+      
+   }
+   .fourtynine{
+      font-weight: 600;
+    margin-left: 20px;
+   }
+   .fifty{
+margin-top: 50px;
+   margin-left: 120px;
+   font-size: 20px;
+   font-weight: 500;
+   }
+   .fiftyone{
+      margin-left: 100px;
+      margin-top: 50px;
+      display: flex;
+       font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   }
+   .fiftytwo{
+    margin-top: 20px;
+    margin-left: 30px;
+   }
+   .fiftythree{
+      font-weight: 600;
+      margin-left: 5px;
+   }
+   .fiftyfour{
+ font-weight: 600;
+ margin-top: 30px;
+ margin-left: 11px;
+   }
+   .fiftyfive{
+
+ font-weight: 600;
+      margin-top: 30px;
+      margin-top: -10px;
+      margin-left: 3px;
+   }
+   .fiftysix{
+      font-weight: 600;
+      margin-top: 30px;
+   }
+   .fiftyseven{
+   border: 1px solid #ccc;
+   width: 170px;
+   padding: 5px 10px;
+   }
+   .fiftyeight{
+    margin-left: 50px;
+    border: 1px solid #ccc;
+   width: 170px;
+   padding: 5px 10px;
+   }
+   .fiftynine{
+    margin-top: 20px;
+    margin-left: 20px;
+   }
+   .apple{
+      margin-top: -10px;
+      margin-left: 20px;
+   }
+   .ball{
+      margin-top: -10px;
+      font-weight: 600;
+      margin-left: 50px;
+
+   }
+   .twonineteen{
+         margin-left: 50px;
+        border: 1px solid #ccc;
+        width: 170px;
+        padding: 5px 10px;
+   }
+   .twotwenty{
+      margin-left: 40px;
+   }
+   .twotwentyone{
+       font-weight: 600;
+       margin-left: 10px;
+       margin-top: 35px;
+   }
+   .twotwentytwo{
+       font-weight: 600;
+       margin-left: 28px;
+       margin-top: -10px;
+   }
+   .twotwentythree{
+    margin-top: -10px;
+    margin-left: 17px;
+   }
+   .twotwentyfour{
+      margin-top: -10px;
+       font-weight: 600;
+       margin-left: 40px;
+
+   }
+   .twotwentyfive{
+      margin-left: 50px;
+        border: 1px solid #ccc;
+        width: 170px;
+        padding: 5px 10px;
+   }
+   .twotwentysix{
+       margin-left: 30px;
+       margin-top: 20px;
+   }
+   .twotwentyseven{
+       font-weight: 600;
+       margin-left: 10px;
+       margin-top: 35px;
+   }
+   .twotwentyeight{
+      font-weight: 600;
+       margin-left: 15px;
+       margin-top: -10px;
+   }
+   .twotwentynine{
+       margin-top: -10px;
+       margin-left: 15px;
+
+   }
+   .twothirty{
+      font-weight: 600;
+       margin-left: 40px;
+       margin-top: -10px;
+   }
+   .twothirtyone{
+      margin-left: 50px;
+        border: 1px solid #ccc;
+        width: 170px;
+        padding: 5px 10px;
+   }
+   .twothirtytwo{
+      margin-left: 30px;
+       margin-top: 40px;
+   }
+   .twothirtythree{
+         font-weight: 600;
+       margin-left: 10px;
+       margin-top: 65px;
+   }
+   .twothirtyfour{
+         font-weight: 600;
+       margin-left: 30px;
+       margin-top: -10px;
+
+
+   }
+   .twothirtyfive{
+       margin-left: 20px;
+       margin-top: -10px;
+   }
+   .twothirtysix{
+font-weight: 600;
+       margin-left: 50px;
+       margin-top: -10px;
+   }
+   .you{
+ background-color: #166a40;
+   color: #ffffff;
+   padding: 10px;
+   font-size: 18px;
+   font-weight: 800;
+   text-align: center;
+   }
