@@ -1587,7 +1587,7 @@ font-weight: 500;
 
       }
        .sixtysix{
-         margin-left: -10px;
+         margin-left: 5px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);

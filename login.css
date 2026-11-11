@@ -215,28 +215,28 @@ font-weight: 500;
         margin-left: 100px;
       }
       .eighty{
-        margin-left: 100px;
+        margin-left: 50px;
 
       }
       .eightyfive{
-        margin-left: 100px;
+        margin-left: 50px;
         
       }
       .eightysix{
-        margin-left: 30px;
+        margin-left: 20px;
       }
       .eightyseven{
-        margin-left: 220px;
+        margin-left: 180px;
 
       }
       .eightyeight{
-        margin-left: 150px;
+        margin-left: 100px;
       }
       .ninetyone{
-        margin-left: 120px;
+        margin-left: 70px;
       }
        .sixtysix{
-         margin-left: -10px;
+         margin-left: 5px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);
