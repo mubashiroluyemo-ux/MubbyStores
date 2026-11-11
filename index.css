@@ -461,9 +461,7 @@ font-weight: 600;
          display: block;
       }
       .saks{
-         width: 200px;
-         height: 200px;
-         margin-left: -100px;
+         display: none;
       }
       .ten{
          width: 92%;
@@ -495,7 +493,7 @@ font-weight: 600;
          margin-left: 10px;
       }
       .twentynine{
-         margin-left: 430px;
+         margin-left: 150px;
       }
       .sixtysix{
          margin-left: 10px;

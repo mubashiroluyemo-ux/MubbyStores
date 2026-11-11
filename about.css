@@ -402,22 +402,21 @@ font-weight: 500;
          display: block;
       }
       .onefourtythree{
-         width: 200px;
-         height: 200px;
-         margin-left: 300px;
-         margin-bottom: 150px;
+
+         display:none;
       }
       .onefourtyeight{
          width: 97%;
          height: 125vh;
       }
       .onefourtyfour{
-        margin-left: 85px;
-        margin-top: -20px;
+        margin-left: 10px;
+        margin-top: 20px;
         display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(2,1fr);
         width: fit-content;
+
       }
       .onefourtysix{
         margin-left: 10px;
@@ -441,9 +440,10 @@ font-weight: 500;
          display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(2,1fr);
+        margin-left: -140px;
       }
       .oneeightthree{
-        margin-left: 50px;
+        margin-left: -10px;
          display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(2,1fr);
@@ -456,7 +456,7 @@ font-weight: 500;
         margin-left: 260px;
       }
        .sixtysix{
-         margin-left: 10px;
+         margin-left: -10px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);
@@ -479,6 +479,12 @@ font-weight: 500;
       }
       .seventysix{
          margin-top: -10px;
+      }
+      .onethirtysix{
+        margin-left: 10px;
+      }
+      .oneeighttwo{
+        margin-left: 150px;
       }
 
 

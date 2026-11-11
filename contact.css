@@ -253,10 +253,10 @@ font-weight: 500;
    margin-left: 50px;
 }
 .hundredfourteen{
-   margin-left: 400px;
+   margin-left: 310px;
 }
 .hundredtwelve{
-   margin-left: 10px;
+   margin-left: -10px;
    width: 600px;
 }
 .hundrednineteen{
@@ -285,10 +285,11 @@ font-weight: 500;
    width: 330px;
 }
 .onetwentysix{
-   margin-left: 360px;
+   margin-left: 10px;
+   margin-top: 50px;
 }
  .sixtysix{
-         margin-left: 10px;
+         margin-left: -10px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);

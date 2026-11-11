@@ -268,12 +268,12 @@ font-weight: 500;
          width: 320px;
       }
       .twoeighteen{
-         margin-top: -520px;
-         margin-left:400px;
+         margin-top: 50px;
+         margin-left:50px;
       }
       .sixtysix{
          margin-top: 300px;
-         margin-left: 10px;
+         margin-left: -10px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);
