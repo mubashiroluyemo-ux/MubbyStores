@@ -2,6 +2,7 @@ body{
    margin: 0;
    padding: 0;
    background-color: #fafafa;
+   overflow-x: hidden;
 }
 .one{
    display: flex;
@@ -36,6 +37,14 @@ margin-left: 150px;
 }
 .eight{
 margin-left: 50px;
+}
+.genpal{
+   width: fit-content;
+   height: 30px;
+   margin-top: 25px;
+   margin-left: 50px;
+   display: none;
+    cursor: pointer;
 }
 .nine{
 display: flex;
@@ -427,4 +436,91 @@ font-weight: 600;
    font-size: 18px;
    font-weight: 800;
    text-align: center;
+   }
+   @media(max-width:760px){
+      .you{
+         width: 750px;
+      }
+      .nine{
+         display: none;
+      }
+      .three{
+         margin-left: 50px;
+      }
+      .seven{
+         margin-left: 50px;
+
+      }
+
+      .nine.show{
+         display: grid;
+         flex-direction: column;
+
+      }
+      .genpal{
+         display: block;
+      }
+      .saks{
+         width: 200px;
+         height: 200px;
+         margin-left: -100px;
+      }
+      .ten{
+         width: 92%;
+         margin-left: 10px;
+         height: 60vh;
+      }
+      .twentythree{
+         margin-top: -300px;
+      }
+      .twentyfour{
+         margin-left: 10px;
+         width: 91%;
+         gap: 20px;
+         display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+
+
+
+      }
+      .twentysix{
+         margin-left: -5px;
+      }
+      .twentyeight{
+         margin-left: 10px;
+         
+      }
+      .fifty{
+         margin-left: 10px;
+      }
+      .twentynine{
+         margin-left: 430px;
+      }
+      .sixtysix{
+         margin-left: 10px;
+         display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+
+      }
+      .sixtyfive{
+         margin-top: -30px;
+      }
+      .seventyone{
+         margin-bottom: 10px;
+      }
+      .seventythree{
+         margin-bottom: 10px;
+      }
+      .seventyfive{
+         margin-bottom: 10px;
+      }
+      .seventytwo{
+         margin-left: 50px;
+      }
+      .seventysix{
+         margin-top: -10px;
+      }
+
    }

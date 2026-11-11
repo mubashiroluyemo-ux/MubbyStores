@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .ninetythree{
     display: flex;
     font-family: "Roboto", sans-serif;
@@ -207,4 +210,66 @@ font-weight: 500;
 .seventysix{
    margin-top: 50px;
 }
+.genpal{
+   width: fit-content;
+   height: 30px;
+   margin-top: 25px;
+   margin-left: 50px;
+   display: none;
+   cursor: pointer;
+}
 
+
+@media(max-width:760px){
+     .genpal{
+      display: block;
+   }
+   .nine{
+      display: none;
+   }
+    .nine.show{
+         display: grid;
+         flex-direction: column;
+}
+ .three{
+         margin-left: 50px;
+      }
+      .seven{
+         margin-left: 50px;
+}
+.ninetythree{
+    margin-left: -430px;
+}
+.hundredfour{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+  .sixtysix{
+         margin-left: -10px;
+         display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+
+      }
+      .sixtyfive{
+         margin-top: -30px;
+         margin-left: -20px;
+      }
+      .seventyone{
+         margin-bottom: 10px;
+      }
+      .seventythree{
+         margin-bottom: 10px;
+      }
+      .seventyfive{
+         margin-bottom: 10px;
+      }
+      .seventytwo{
+         margin-left: 50px;
+      }
+      .seventysix{
+         margin-top: -10px;
+      }
+
+
+}

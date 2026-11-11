@@ -9,7 +9,7 @@
 <body>
      <div class="one">
     <p class="two">MubbyStores</p>
-   <nav class="nine">
+   <nav class="nine" id="navLinks">
     <p><a href="shop.html" class="three" style="text-decoration: none; color: #1e7f4f;">Shop</a></p>
     <p class="four"><a href="about.html" style="text-decoration: none; color:#1e7f4f ;">About</a></p>
     <p class="five"><a href="contact.html" style="text-decoration: none; color: #1e7f4f;">Contact</a></p>
@@ -17,13 +17,14 @@
     <p class="seven"><a href="cart.html" style="text-decoration: none; color: #1e7f4f;"><img src="shopping_cart_24dp_000000_FILL0_wght400_GRAD0_opsz24.png" alt="" height="15px" width="20px">Cart</a></p>
     <p class="eight"><a href="login.html" style="text-decoration: none; color: #1e7f4f;"><img src="login_24dp_000000_FILL0_wght400_GRAD0_opsz24.png" alt="" height="15px" width="20px">Login</a></p>
    </nav>
-    
+   <button class="genpal" id="menuBtn">&#9776</button>
+ 
     </div>
     <div class="oneninesix">
     <p class="onenineseven">Create account</p>
     <p class="onenineeight">Sign Up</p>
     <p class="oneninenine">Create an account to get started with MubbyStores</p>
-    <form action="">
+    <form action="https://formspree.io/f/xaeoyqlp" method="post">
         <label for="name" class="twoone">Full Name</label><br>
         <input type="text" name="name" id="name" placeholder="Enter your full name" required class="twotwo"><br>
         <label for="mail" class="twothree">Email</label><br>
@@ -35,7 +36,7 @@
         <input type="checkbox" name="box" id="box" class="twonine" required>
         <label for="box" class="twoten">I agree to the terms and conditions and privacy policy</label><br>
         <input type="submit" value="Sign Up" class="twoeleven">
-        <p class="twotwelve">_____________________ or continue with ______________________</p>
+        <p class="twotwelve">_________________ or continue with __________________</p>
         <div class="twothirteen">
         <p class="twofourteen"><a href="" style="text-decoration: none; color: #000000;"><img src="IG icon.jpeg" alt="" height="10px" width="10px" >Instagram</a></p>
         <p class="twofifteen"><a href="" style="text-decoration: none; color: #000000;"><img src="book icon.webp" alt="" height="10px" width="10px" >Facebook</a></p>
@@ -89,5 +90,6 @@
         
             </div>
            </div>
+           <script src="signup.js"></script>
 </body>
 </html>
